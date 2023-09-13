@@ -1,13 +1,13 @@
-# Como usar a ferramenta ?
+# How to Use the Tool?
 
-1. Dentro do diretório do trabalho, use o comando **source pvenv/bin/activate** no terminal para acessar o ambiente virtual.
-2. Abra o jupyter notebook com o comando **jupyter notebook** no terminal.
-3. Acesse o link do notebook, vai aparecer algo como 'http://localhost:8888/?token=5f70db09afaeedd98c9c2f90a4c6ad99701d14661b4bc3db'.
-4. Dentro do notebook, abra o arquivo **pvillageds.ipynb**.
-5. Clique em **Kernel** e, em seguida, **Restart & Run all** e confirme.
-6. Extraia o arquivo **test.zip**.
-7. O Dashboard vai abrir em outra aba. Clique em **Procurar** e selecione as imagens na pasta extraida no passo **5**.
+1. Within the working directory, use the command **source pvenv/bin/activate** in the terminal to access the virtual environment.
+2. Open the Jupyter Notebook using the command **jupyter notebook** in the terminal.
+3. Access the notebook link; it will appear as something like 'http://localhost:8888/?token=5f70db09afaeedd98c9c2f90a4c6ad99701d14661b4bc3db.'
+4. Inside the notebook, open the file **pvillageds.ipynb**.
+5. Click on **Kernel** and then **Restart & Run all**, and confirm.
+6. Extract the file **test.zip**.
+7. The dashboard will open in another tab. Click on **Browse** and select the images in the folder extracted in step **5**.
 
-Queria ter feito o servidor, mas acabou não dando tempo, dai tem que acessar por aqui mesmo.
+I wanted to have set up the server, but I didn't have time, so you'll have to access it this way.
 
-Qualquer problema, me mande um e-mail: caio.rondow@ufv.br
+If you encounter any issues, please send me an email: caio.rondow@ufv.br.
