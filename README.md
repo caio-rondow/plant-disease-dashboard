@@ -8,6 +8,4 @@
 6. Extract the file **test.zip**.
 7. The dashboard will open in another tab. Click on **Browse** and select the images in the folder extracted in step **5**.
 
-I wanted to have set up the server, but I didn't have time, so you'll have to access it this way.
-
 If you encounter any issues, please send me an email: caio.rondow@ufv.br.
